@@ -20,7 +20,7 @@ on-time delivery, and what revenue is at risk because of it?
 ## Recommendation
 
 Prioritize a logistics review for AL, MA and SE, the three states with
-the highest late-delivery rates. Revenue at risk: [fill in after next step].
+the highest late-delivery rates. Revenue at risk: R$51,226 in late-delivered order value across AL, MA and SE
 
 ## Data notes
 
